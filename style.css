@@ -1,0 +1,10 @@
+.unsplash {
+    filter: brightness(0.5);
+    
+    
+}
+
+.overview {
+    height: 130px;
+    background-color: lightgrey;
+}
